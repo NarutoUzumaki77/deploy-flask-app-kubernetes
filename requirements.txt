@@ -3,3 +3,7 @@ flask
 gunicorn
 pytest
 typing
+more_itertools
+zipp
+importlib_metadata
+pluggy
