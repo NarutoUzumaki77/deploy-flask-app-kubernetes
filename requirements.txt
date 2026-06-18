@@ -1,7 +1,7 @@
 pyjwt
 flask
 gunicorn
-pytest==4.6
+pytest==9.0.3
 typing
 more_itertools
 zipp
